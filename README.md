@@ -37,4 +37,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
+![1](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/15c72945-5486-4415-bdff-c884d3ab4f9b)
 
+![2](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/bd33efb4-4e67-4394-a19b-764049c90ab4)
+
+![3](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/bdb5bf59-fb37-4d74-988b-ace9b437a60e)
+
+![4](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/e15a8056-5905-41f2-b3e5-3660ff418d31)
