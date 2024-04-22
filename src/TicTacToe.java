@@ -53,7 +53,7 @@ public class TicTacToe implements ActionListener{
             buttons[i] = new JButton();
             button_panel.add(buttons[i]);
             buttons[i].setFont(new Font("Arial", Font.BOLD, 120));
-            // Set initial button background color to yellow (RGB: 255, 255, 0).
+            // Set initial button background color to purple  (128, 0, 128).
             buttons[i].setBackground(new Color(128, 0, 128));
             buttons[i].setFocusable(false);
             buttons[i].addActionListener(this);
