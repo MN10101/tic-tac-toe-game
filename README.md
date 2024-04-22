@@ -33,11 +33,11 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Screenshots
 
-![1](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/15c72945-5486-4415-bdff-c884d3ab4f9b)
+![1](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/016c3429-1073-4135-8f1b-ff1d152b50a6)
 
-![4](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/e15a8056-5905-41f2-b3e5-3660ff418d31)
+![3](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/cc4e7982-29c3-456c-bc3f-0a78362e8da4)
 
-![2](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/bd33efb4-4e67-4394-a19b-764049c90ab4)
+![2](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/4fd86676-d069-4aa6-a9fa-77f371c1620f)
 
-![3](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/bdb5bf59-fb37-4d74-988b-ace9b437a60e)
+![4](https://github.com/MN10101/tic-tac-toe-game/assets/78208459/98edd9d1-094d-4ffa-b5f1-f1eb9fabdf5b)
 
