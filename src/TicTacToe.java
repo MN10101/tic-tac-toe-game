@@ -34,7 +34,7 @@ public class TicTacToe implements ActionListener{
 
         // Set up the title label.
         textfield.setBackground(new Color(25, 25, 25));
-        textfield.setForeground(new Color(25, 255, 0));
+        textfield.setForeground(new Color(0, 153, 0));
         textfield.setFont(new Font("Ink Free", Font.BOLD, 75));
         textfield.setHorizontalAlignment(JLabel.CENTER);
         textfield.setText("Tic-Tac-Toe");
@@ -53,7 +53,7 @@ public class TicTacToe implements ActionListener{
             buttons[i] = new JButton();
             button_panel.add(buttons[i]);
             buttons[i].setFont(new Font("Arial", Font.BOLD, 120));
-            // Set initial button background color to purple  (128, 0, 128).
+            // Set initial button background color to yellow (RGB: 255, 255, 0).
             buttons[i].setBackground(new Color(128, 0, 128));
             buttons[i].setFocusable(false);
             buttons[i].addActionListener(this);
@@ -269,10 +269,10 @@ public class TicTacToe implements ActionListener{
 
     // Method to handle X wins.
     public void xWins(int a, int b, int c) {
-        // Highlight winning buttons in green.
-        buttons[a].setBackground(Color.GREEN);
-        buttons[b].setBackground(Color.GREEN);
-        buttons[c].setBackground(Color.GREEN);
+        // Highlight winning buttons in darkGray.
+        buttons[a].setBackground(Color.darkGray);
+        buttons[b].setBackground(Color.darkGray);
+        buttons[c].setBackground(Color.darkGray);
 
         // Disable all buttons.
         for (int i = 0; i < 9; i++) {
@@ -284,10 +284,10 @@ public class TicTacToe implements ActionListener{
 
     // Method to handle O wins.
     public void oWins(int a, int b, int c) {
-        // Highlight winning buttons in green.
-        buttons[a].setBackground(Color.GREEN);
-        buttons[b].setBackground(Color.GREEN);
-        buttons[c].setBackground(Color.GREEN);
+        // Highlight winning buttons in darkGray.
+        buttons[a].setBackground(Color.darkGray);
+        buttons[b].setBackground(Color.darkGray);
+        buttons[c].setBackground(Color.darkGray);
 
         // Disable all buttons.
         for (int i = 0; i < 9; i++) {
